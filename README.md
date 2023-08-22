@@ -1,2 +1,2 @@
 My first readme 
-(good job )
+HOW TO BE UP DATE IN GIT
